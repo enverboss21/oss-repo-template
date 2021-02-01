@@ -3,6 +3,7 @@
 
 ## Bio
 (CS Major Student)
+Discord: enver21
 
 
 ## Lab Reports
